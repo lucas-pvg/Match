@@ -217,7 +217,7 @@ Project Link: [https://github.com/lucas-pvg/Match](https://github.com/lucas-pvg/
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://developer.spotify.com/documentation/web-api
 
-[license-badge]: https://img.shields.io/github/license/lucas-pvg/Match.svg?style=for-the-badge
+[license-badge]: https://img.shields.io/github/license/lucas-pvg/match.svg?style=for-the-badge
 [license-url]: https://github.com/lucas-pvg/Match/blob/main/LICENSE.txt
 [gmail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: https://mail.google.com/mail/u/0/?to=lucaspvg1@gmail.com&tf=cm
