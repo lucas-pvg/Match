@@ -1,0 +1,14 @@
+.container {
+  position: relative;
+}
+
+.cover {
+  box-shadow: 4px 4px 12px #131023;
+  position: absolute;
+}
+
+.blur {
+  filter: var(--cover-blur);
+  -webkit-filter: var(--cover-blur);
+  position: absolute;
+}
