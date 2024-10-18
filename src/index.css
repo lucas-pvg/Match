@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'Ethos Nova';
+  font-weight: 100;
+  src: url(./assets/fonts/ethos-nova/EthosNova-Thin.otf) format('truetype');
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  font-weight: 300;
+  src: url(./assets/fonts/ethos-nova/EthosNova-Light.otf) format('truetype');
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  font-weight: 400;
+  src: url(./assets/fonts/ethos-nova/EthosNova-Regular.otf) format('truetype');
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  font-weight: 500;
+  src: url(./assets/fonts/ethos-nova/EthosNova-Medium.otf) format('truetype');
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  font-weight: 700;
+  src: url(./assets/fonts/ethos-nova/EthosNova-Bold.otf) format('truetype');
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  font-weight: 900;
+  src: url(./assets/fonts/ethos-nova/EthosNova-Heavy.otf) format('truetype');
+}
+
+:root {
+  --primary: #24202C;
+  --secondary: #453F5A;
+  --teciary: #5C5478;
+  --background: #0C0B0F;
+  --text: #C9C3D5;
+  --seach: #17151E;
+
+  --background-blur: blur(100px);
+  --cover-blur: blur(40px);
+  --button-shadow: 8px 8px 16px rgba(54, 94, 125, 80%);
+  --search-shadow: 4px 4px 30px #0C0B0F40;
+  --card-shadow: 
+    8px 8px 30px #17151E40, 
+    -8px -8px 30px #302B3B40
+  ;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  all: unset;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Ethos Nova';
+  font-weight: 400;
+  font-style: normal;
+  color: var(--text);
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 12px;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--background);
+
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--text);
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
