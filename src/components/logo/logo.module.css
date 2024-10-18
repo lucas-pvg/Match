@@ -1,0 +1,14 @@
+.logo { 
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 12px;
+  color: var(--logo);
+}
+
+.h1 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 30px;
+  color: var(--logo);
+}
