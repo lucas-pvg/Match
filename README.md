@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="/src/assets/logo-icon.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Match!</h3>
@@ -58,6 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## :question: About The Project :question:
 
+<!--
 <br />
 <div align="center">
   <a href="">
@@ -65,6 +66,7 @@
   </a>
 </div>
 <br />
+-->
 
 **Match!** is a different way of discovering new music for your Spotify playlists. It lets you browse through thousands of songs that may match the general feeling of your playlists and allow you to add them to your playlist easily and export them to your Spotify account. Match! also enables the user to manage their Spotify playlists or to create a completely new one, while still taking you through the experience of finding new and exciting music to listen to.
 
