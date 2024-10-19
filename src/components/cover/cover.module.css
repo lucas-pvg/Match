@@ -5,10 +5,12 @@
 .cover {
   box-shadow: 4px 4px 12px #131023;
   position: absolute;
+  z-index: 1;
 }
 
 .blur {
   filter: var(--cover-blur);
   -webkit-filter: var(--cover-blur);
   position: absolute;
+  z-index: 0;
 }
