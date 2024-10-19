@@ -35,11 +35,11 @@
   --teciary: #5C5478;
   --background: #0C0B0F;
   --text: #C9C3D5;
+  --logo: #8F87AB;
   --seach: #17151E;
 
   --background-blur: blur(100px);
   --cover-blur: blur(40px);
-  --button-shadow: 8px 8px 16px rgba(54, 94, 125, 80%);
   --search-shadow: 4px 4px 30px #0C0B0F40;
   --card-shadow: 
     8px 8px 30px #17151E40, 

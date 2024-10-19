@@ -1,9 +1,12 @@
+import { Logo } from './components/logo/logo'
+import { Cover } from './components/cover/cover'
 import './App.css'
 
 function App() {
   return (
     <>
-      <h1>Match!</h1>
+      <Logo />
+      <Cover />
     </>
   )
 }
